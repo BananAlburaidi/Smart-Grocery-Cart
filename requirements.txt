@@ -1,0 +1,20 @@
+torch
+gitpython
+ipython  # interactive notebook
+matplotlib
+opencv-python
+Pillow
+psutil  # system resources
+PyYAML
+requests
+scipy
+thop
+torchvision
+tqdm
+
+
+
+tensorboard
+
+pandas
+seaborn

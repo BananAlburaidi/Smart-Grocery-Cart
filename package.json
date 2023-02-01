@@ -1,0 +1,22 @@
+{
+  "name": "smart-shopping-cart",
+  "version": "1.0.0",
+  "description": "Smart shopping cart app using python and nodejs and reactjs",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app-py.js"
+  },
+  "author": "hidden",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "python-shell": "^3.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
